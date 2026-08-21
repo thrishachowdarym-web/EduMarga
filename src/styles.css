@@ -222,6 +222,10 @@
   box-shadow: 0 10px 30px -10px oklch(0.15 0.02 285 / 0.1);
 }
 
+.dark .robot-avatar {
+  filter: hue-rotate(295deg) saturate(1.1) brightness(1.02);
+}
+
 @layer base {
   * {
     border-color: var(--color-border);

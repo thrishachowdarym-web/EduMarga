@@ -173,7 +173,7 @@ export function AIChatWidget() {
               <img
                 src="https://img.freepik.com/premium-vector/chat-bot-icon-virtual-smart-assistant-bot-sign-design-robot-head-with-speech-bubble-circle_418020-468.jpg"
                 alt="Chatbot"
-                className="size-5 rounded-full object-cover"
+                className="size-5 rounded-full object-cover robot-avatar dark:hue-rotate-[295deg] dark:saturate-110"
               />
               LearnPath Copilot
             </h2>
@@ -296,7 +296,7 @@ export function AIChatWidget() {
           <img
             src="https://img.freepik.com/premium-vector/chat-bot-icon-virtual-smart-assistant-bot-sign-design-robot-head-with-speech-bubble-circle_418020-468.jpg"
             alt="Chatbot"
-            className="h-full w-full rounded-full object-cover"
+            className="h-full w-full rounded-full object-cover robot-avatar dark:hue-rotate-[295deg] dark:saturate-110"
           />
         )}
       </button>
