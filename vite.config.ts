@@ -4,7 +4,8 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
+
   vite: {
-    base: "/AI_Learning_platform/",
+    base: "/",
   },
 });
