@@ -1,0 +1,7 @@
+- `[x]` Create mtech-roadmaps.ts containing the 23 M.Tech roadmaps
+- `[x]` Update mtech-specialization.tsx route to list the specializations
+- `[x]` Update roadmap.$track.tsx route with M.Tech tracks
+- `[x]` Connect Copilot widget to live Render endpoint
+- `[x]` Strip all comments from AIChatWidget.tsx
+- `[x]` Verify build and check layout
+- `[x]` Final verification
